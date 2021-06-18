@@ -21,6 +21,8 @@ https://user-images.githubusercontent.com/55244087/122604137-d800fc80-d04b-11eb-
  
 <h2>Tercero Comparando tres numeros</h2>
  -En este caso utilize la libreria Scanner  - Video demostración
+ 
+ 
  https://user-images.githubusercontent.com/55244087/122604203-f4049e00-d04b-11eb-87c4-328737f45a37.mov
 
  
